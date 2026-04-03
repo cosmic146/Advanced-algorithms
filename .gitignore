@@ -1,0 +1,29 @@
+# Local secrets
+.env
+.env.*
+*.pem
+*.key
+*.p12
+*.pfx
+
+# Local app state
+.portfolio/
+.cache/
+
+# Virtual environments
+.venv/
+.venv-1/
+venv/
+
+# Python build/test artifacts
+__pycache__/
+*.pyc
+.pytest_cache/
+.mypy_cache/
+
+# OS/editor noise
+.DS_Store
+.vscode/
+
+# Keep uncensored tracker local only
+portfolio_tracker.py
