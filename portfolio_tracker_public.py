@@ -2,6 +2,10 @@
 # This file is auto-generated from portfolio_tracker.py.
 # Do not edit manually. Edit portfolio_tracker.py instead.
 
+# PUBLIC CENSORED MIRROR
+# This file is auto-generated from portfolio_tracker.py.
+# Do not edit manually. Edit portfolio_tracker.py instead.
+
 #!/usr/bin/env python3
 """
 Portfolio Tracker — with REDACTED_HOST integration
